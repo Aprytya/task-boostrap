@@ -1,0 +1,86 @@
+@import url('https://fonts.googleapis.com/css2?family=Epilogue&display=swap');
+
+.logo{
+    width: 118px;
+    height: 62px;
+    top: 31px;
+    left: 27px;
+    margin-left: 50px;
+}
+
+.title{
+    font-family: 'Epilogue', sans-serif;
+    font-size: 80px;
+    font-weight: 600;
+    line-height: 90px;
+    letter-spacing: 0em;
+    text-align: left;
+    width: 557px;
+    height: 180px;
+    padding-top: 10px;
+    margin-bottom: 50px;
+    color: #000000;
+}
+
+.paragraft{
+    font-family: 'Epilogue', sans-serif;
+    font-family: Epilogue;
+    font-size: 17px;
+    font-weight: 400;
+    letter-spacing: 0em;
+    text-align: justify;
+    width: 557px;
+    height: 216px;
+    margin-bottom: 50px;
+}
+
+#button{
+    font-family: Heebo;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 29px;
+    letter-spacing: 0px;
+    text-align: left;
+    color:  #FFFFFF;
+    background: #FF6464;
+}
+
+.pablo{
+    width: Fixed (305px);
+    height: Fixed (307px);
+    top: 169px;
+    left: 818px;
+    gap: 12px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.name{
+    font-family: 'Epilogue', sans-serif;
+    font-size: 17px;
+    font-weight: 700;
+    letter-spacing: 0em;
+    text-align: center;
+    color: #2D2D2D;
+    text-decoration: underline;
+    }
+
+.work{
+    font-family:'Epilogue', sans-serif;
+    font-size: 17px;
+    font-weight: 400;
+    line-height: 27px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: #2D2D2D;
+    }
+
+.sosial{
+    width: 229px;
+    height: 37px;
+    top: 554px;
+    left: 856px;
+    
+
+}
